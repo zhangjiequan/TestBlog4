@@ -1,5 +1,7 @@
-.sass-cache/
-.jekyll-metadata
-node_modules
-.vscode
-_site/
+*Thumbs.db
+.bundle
+.sass-cache
+Gemfile.lock
+_site
+*.gem
+*.bak
